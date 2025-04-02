@@ -1,10 +1,10 @@
 <h1 align="center">O R L U N D</h1>
 
-WHAT I DO: <br>
+<h3>WHAT I DO:</h3>
 Senior software developer for a municipal government.
 
 
-<h3 >SKILLS & TECHNOLOGY:</h3>
+<h3>SKILLS & TECHNOLOGY:</h3>
 <table>
   <tr>
     <td>
@@ -42,6 +42,7 @@ Senior software developer for a municipal government.
   </tr>
 </table>
 
+<!--
 <h3>PROJECTS:</h3>
 <table>
   <tr>
@@ -57,5 +58,5 @@ Senior software developer for a municipal government.
     </td>
   </tr>
 </table>
-
+-->
 
