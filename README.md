@@ -1,5 +1,3 @@
-<h1 align="center">O R L U N D</h1>
-
 ![Alt text](github-banner.png)
 
 <h3>WHAT I DO:</h3>
