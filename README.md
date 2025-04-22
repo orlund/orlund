@@ -39,6 +39,14 @@ Senior software developer for a municipal government.
         <li>Docker</li>
       </ul>
     </td>
+    <td>
+      <ul>
+        <li>JDE</li>
+        <li>VIP</li>
+        <li>Banner</li>
+        <li>SponsorSoft</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
