@@ -23,6 +23,7 @@ Senior software developer for a municipal government.
         <li>Javascript</li>
         <li>Bootstrap</li>
         <li>Bulma</li>
+        <li>Oracle Apex</li>
       </ul>
     </td>
     <td>
