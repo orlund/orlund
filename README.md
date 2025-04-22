@@ -1,5 +1,5 @@
 <h1 align="center">O R L U N D</h1>
-![Alt text](github-banner.png)
+[Alt text](./github-banner.png)
 
 <h3>WHAT I DO:</h3>
 Senior software developer for a municipal government.
