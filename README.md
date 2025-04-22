@@ -37,6 +37,7 @@ Senior software developer for a municipal government.
     <td>
       <ul>
         <li>Docker</li>
+        <li>Ansible</li>
       </ul>
     </td>
     <td>
