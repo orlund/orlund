@@ -1,4 +1,4 @@
-![Alt text](github-banner.png)
+![Orlund](github-banner.png)
 
 <h3>WHAT I DO:</h3>
 Senior software developer for a municipal government.
